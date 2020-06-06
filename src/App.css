@@ -9,6 +9,16 @@
     font-size: 200%;
 }
 
+.logo {            
+    margin: 0px 24px 16px 0;
+    float: left;
+}
+
+.logo img {
+    width: 100px;
+    height: 28px;
+}
+
 .ant-layout-content {
     display: flex;
 }

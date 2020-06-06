@@ -11,6 +11,9 @@ function App() {
   return (
     <Layout className="layout">
       <Header className="header">
+        <div className="logo">
+          <img src="logo.png"/>
+        </div>
         Corporation
       </Header>
       <Content style={{ padding: '0 50px' }}>
