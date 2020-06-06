@@ -1,4 +1,4 @@
-import { observable, action, decorate } from "mobx";
+import { observable, decorate } from "mobx";
 import employeeService from "../services/employee.service";
 
 class EmployeesStore {
